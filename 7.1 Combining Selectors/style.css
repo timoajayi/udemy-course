@@ -1,0 +1,25 @@
+/* Write your code here: */
+h1{
+    color: indianred;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-transform: initial;
+    text-align: center;
+}
+.box > p{
+    color: firebrick;
+}
+.box li{
+    color: blue;
+}
+li.done{
+    color: seagreen;
+}
+ul p.done{
+    font-size: 0.5rem;
+}
+
+
+

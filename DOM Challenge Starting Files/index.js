@@ -1,0 +1,3 @@
+document.query
+document.querySelectorAll
+
